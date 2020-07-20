@@ -1,5 +1,8 @@
 # sparkurl
 
+Spark Architecture:
+https://0x0fff.com/
+
 https://kaizen.itversity.com/setup-development-environment-intellij-and-scala-big-data-hadoop-and-spark/
 
 https://medium.com/@mrpowers/creating-a-spark-project-with-sbt-intellij-sbt-spark-package-and-friends-cc9108751c28
